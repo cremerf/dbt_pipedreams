@@ -1,0 +1,17 @@
+1) rounding errors - data quality
+2) repeated lines - 
+3) single big sql query instead of small units
+4) query fails over a certain order #
+5) missing data in ingest tables
+
+Send progress to Shay every 2 days.
+
+Dont learn everything about DBT.
+Ignore everything just focus on this:
+	Testing & Quality.
+Preferebly finish this 1 week time.
+Someone onboard on January.
+
+Easy to maintain, DRY, scalable, keep it simple, testing.
+Writing code that easy to test. It's desing to be tested.
+Design code that 
